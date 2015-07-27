@@ -1,0 +1,11 @@
+# Site settings
+title: Blog
+email: ty.auvil@gmail.com
+description: > # 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tyauvil.com" # the base hostname & protocol for your site
+twitter_username: tyauvil
+github_username:  tyauvil
+
+# Build settings
+markdown: kramdown
